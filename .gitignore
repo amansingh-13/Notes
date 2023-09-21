@@ -1,4 +1,5 @@
-**/*
+*/**/*
 
 !/.gitignore
-! hw1/fgsm.py
+!hw1/fgsm.py
+!hw2/transformer.smt2
