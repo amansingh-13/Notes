@@ -1,6 +1,1 @@
 */**/*
-
-!/.gitignore
-!hw1/fgsm.py
-!hw2/transformer.smt2
-!hw2/adversarial_training.ipynb
